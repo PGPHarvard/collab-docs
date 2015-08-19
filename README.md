@@ -1,10 +1,5 @@
 # Collaboration Documents for the Personal Genome Projects
-
-## Mission Statement
-
-1. We believe that people can make a fully informed decision to release their data completely into the public, and in fact, given the difficulty and indeed impossibility of making genomic data fully anonymous, we believe that our approach is the most responsible approach possible.
-
-2. We believe in giving participants the tools, skills, and knowledge to participate as equals in the healthcare process who bring insight into and hypothesis derived from their own lives, while helping them understand and appreciate the complexity of medicine and science and bolster their trust that the healthcare system is working on their behalf.
+This document is a draft and a work-in-progress!
 
 ## Feature List for Software Infrastructure & for PGP as a Whole
 
