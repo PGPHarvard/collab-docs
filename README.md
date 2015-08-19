@@ -6,7 +6,7 @@
 
 2. We believe in giving participants the tools, skills, and knowledge to participate as equals in the healthcare process who bring insight into and hypothesis derived from their own lives, while helping them understand and appreciate the complexity of medicine and science and bolster their trust that the healthcare system is working on their behalf.
 
-## Feature List for Software Infrastructure
+## Feature List for Software Infrastructure & for PGP as a Whole
 
 1. Facilitate participants **enrolling in studies**, and the **return of data** from those studies to participants
 2. Facilitate external researchers being able to **find and access public (released) data**
